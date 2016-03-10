@@ -39,7 +39,7 @@ a.active {
 }
 
 a:hover {
-	font-family: OcrAStd;
+	font-family: OcrAStd, 'Roboto', sans-serif;
 	text-transform: uppercase;
 	font-weight:bolder;
     outline: 0;
