@@ -13,6 +13,11 @@ p {
 	font-family: 'Roboto', sans-serif;
 }
 
+p.hack {
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+}
+
 @font-face {
 	font-family: OcrAStd;
 	src: url("./fonts/ocr-a-std/ocr-a-std.otf") format("opentype");
