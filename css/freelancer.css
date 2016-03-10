@@ -23,7 +23,6 @@ p.small {
 }
 
 a,
-a:hover,
 a:focus,
 a:active,
 a.active {
@@ -32,6 +31,13 @@ a.active {
 	text-decoration: none;
     outline: 0;
 	color: 862a86;
+}
+
+a:hover {
+	font-family: OcrAStd;
+	text-transform: uppercase;
+	font-weight:bolder;
+    outline: 0;
 }
 
 p.credits {
@@ -49,7 +55,7 @@ h6 {
 }
 
 h4 {
-	color: #862a86; 
+	color: orange; 
 }
 
 .img-centered {
